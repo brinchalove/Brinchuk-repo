@@ -1,0 +1,23 @@
+* commit 267c957e01177934b65862875ed3b2e25ab680fd (HEAD -> task2, origin/task2)
+| Author: Vladislav Brinchuk <brinchuk.vlad@gmail.com>
+| Date:   Tue May 10 02:59:52 2022 +0300
+|
+|     Added history
+|
+*   commit a57132443f84a68d78c5ed6a325243c84dadf476 (origin/master, master)
+|\  Merge: 9fcf5d1 b4e26ec
+| | Author: Brinchuk Vladislav <43611980+brinchalove@users.noreply.github.com>
+| | Date:   Tue May 10 02:25:50 2022 +0300
+| |
+| |     Merge pull request #1 from brinchalove/task1
+| |
+| |     merg task1 with master
+| |
+| * commit b4e26ec26d5cb23fbab1f38b2c2c2fb386a6b74c (origin/task1, task1)
+| | Author: Vladislav Brinchuk <brinchuk.vlad@gmail.com>
+| | Date:   Tue May 10 02:10:29 2022 +0300
+| |
+| |     Modified first.txt and added newfile.txt
+| |
+| * commit c10cc0cbf31fcaf64d035ad1b8bbac74f2d5adda
+| | Author: Vladislav Brinchuk <brinchuk.vlad@gmail.com>

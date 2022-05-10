@@ -1,0 +1,202 @@
+    1  git
+    2  git --version
+    3  git status
+    4  ls
+    5  pwd
+    6  clear
+    7  gjt config --global
+    8  git config --global
+    9  git status
+   10  git config --global
+   11  git config --global user.email brinchuk.vlad@gmail.com
+   12  git config --global user.email
+   13  git config --global user.name "Vladislav Brinchuk"
+   14  git config --global user.name
+   15  cat .gitconfig
+   16  ssh-keygen -t rsa -C "brinchuk.vlad@gmail.com"
+   17  cd .ssh/
+   18  ls
+   19  cat id_rsa.pub
+   20  notepad id_rsa.pub
+   21  git status
+   22  git log --all
+   23  clear
+   24  pwd
+   25  cd..
+   26  cd
+   27  cd .
+   28  pwd
+   29  cd Brinchuk-git-repo
+   30  md Brinchuk-git-repo
+   31  git -help
+   32  git --help
+   33  git help -a
+   34  git help -q
+   35  mk dir Brinchuk-git-repo
+   36  mkdir Brinchuk-git-repo
+   37  pwd
+   38  cd Brinchuk-git-repo/
+   39  git init
+   40  ls
+   41  ls -a
+   42  git status
+   43  git remote add origin git@github.com:brinchalove/Brinchuk-repo.git
+   44  git remote -v
+   45  touch first.txt
+   46  git add first.txt
+   47  git status
+   48  git commit -m "Add first.txt"
+   49  git status
+   50  git log
+   51  git branch task1
+   52  git status
+   53  git log
+   54  git branch -a
+   55  git checkout task1
+   56  touch second.txt
+   57  git add second.txt
+   58  git commit -m "Add second.txt"
+   59  notepad second.txt
+   60  git add second.txt
+   61  touch third.txt
+   62  git add third.txt
+   63  git commit
+   64  git log
+   65  git log
+   66  ls
+   67  notepad third.txt
+   68  notepad second.txt
+   69  git commit
+   70  notepad third.txt
+   71  notepad third.txt
+   72  git remote -v
+   73  git status
+   74  git push
+   75  git log
+   76  git push -u origin task1
+   77  git status
+   78  ls
+   79  notepad first.txt
+   80  notepad second.txt
+   81  зцв
+   82  pwd
+   83  cd ..
+   84  cd ..
+   85  pwd
+   86  cd brinc/
+   87  pwd
+   88  mkdir Brinchuk-git-repo2
+   89  pwd
+   90  cd Brinchuk-git-repo2
+   91  ls
+   92  ls -a
+   93  git clone git@github.com:brinchalove/Brinchuk-repo.git
+   94  ls
+   95  cd Brinchuk-repo/
+   96  ls
+   97  touch fourth.txt
+   98  notepad first.txt
+   99  ls
+  100  git status
+  101  git add first.txt -m "Modified first.txt"
+  102  git add first.txt
+  103  git status
+  104  git add fourth.txt
+  105  git status
+  106  git commit -m "Modified first.txt and added fourth.txt"
+  107  git checkout master
+  108  git log
+  109  git logg
+  110  git log
+  111  cd ..
+  112  cd ..
+  113  ls
+  114  cd Brinchuk-git-repo
+  115  ls
+  116  git log
+  117  cd ..
+  118  cd ..
+  119  cd brinc/
+  120  cd Brinchuk-git-repo2
+  121  ls
+  122  cd Brinchuk-repo/
+  123  git log
+  124  cd ..
+  125  cd ..
+  126  ls
+  127  cd Brinchuk-git-repo/
+  128  git log
+  129  notepad third.txt
+  130  git status
+  131  git log
+  132  git checkout master
+  133  git push -u origin master
+  134  cd ..
+  135  ls
+  136  mkdir Brinchuk-git-repo2
+  137  ls
+  138  cd Brinchuk-git-repo2
+  139  ls
+  140  git clone git@github.com:brinchalove/Brinchuk-repo.git
+  141  ls
+  142  cd Brinchuk-repo/
+  143  ls
+  144  git log
+  145  git checkout master
+  146  ls
+  147  git log
+  148  git checkout task
+  149  git checkout task1
+  150  git log
+  151  touch newfile.txt
+  152  notepad first.txt
+  153  git status
+  154  git add first.txt
+  155  git add newfile.txt
+  156  git commit -m "Modified first.txt and added newfile.txt"
+  157  git status
+  158  git push
+  159  git status
+  160  git checkout master
+  161  touch README.md
+  162  notepad README.md
+  163  git status
+  164  git add README.md
+  165  git commit -m "Add readme"
+  166  git push
+  167  cd ..
+  168  cd ..
+  169  cd Brinchuk-git-repo
+  170  git status
+  171  ls
+  172  git log
+  173  git checkout task1
+  174  git status
+  175  ls
+  176  git checkout master
+  177  git fetch
+  178  git status
+  179  git log
+  180  git log --all
+  181  git pull
+  182  git status
+  183  git checkout task1
+  184  git pull
+  185  git status
+  186  git checkout master
+  187  git fetch
+  188  git status
+  189  git pull
+  190  git status
+  191  git checkout task1
+  192  git checkout master
+  193  git log
+  194  git checkout master
+  195  git branch -a
+  196  git log
+  197  git branch task2
+  198  git log
+  199  git checkout taks2
+  200  git checkout task2
+  201  touch history.txt
+  202  history
